@@ -24,8 +24,8 @@ services:
 ```
 spring.rabbitmq.host=localhost
 spring.rabbitmq.port=5672
-spring.rabbitmq.username=irfan
-spring.rabbitmq.password=irfantest
+spring.rabbitmq.username=
+spring.rabbitmq.password=
 
 
 sr.rabbit.queue.name = spring-rabbit-queue
